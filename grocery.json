@@ -1,0 +1,4282 @@
+﻿[
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 25203,
+  "Milk" : 11487,
+  "Frozen" : 5065,
+  "Detergents/Paper" : 284,
+  "Delicatessen" : 6854,
+  "Grocery" : 9490
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 2806,
+  "Milk" : 10765,
+  "Frozen" : 1374,
+  "Detergents/Paper" : 5828,
+  "Delicatessen" : 2388,
+  "Grocery" : 15538
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 5396,
+  "Milk" : 7503,
+  "Frozen" : 91,
+  "Detergents/Paper" : 4167,
+  "Delicatessen" : 239,
+  "Grocery" : 10646
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 6202,
+  "Milk" : 7775,
+  "Frozen" : 1183,
+  "Detergents/Paper" : 3143,
+  "Delicatessen" : 1970,
+  "Grocery" : 10817
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 10379,
+  "Milk" : 17972,
+  "Frozen" : 4686,
+  "Detergents/Paper" : 1547,
+  "Delicatessen" : 3265,
+  "Grocery" : 4748
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 5909,
+  "Milk" : 23527,
+  "Frozen" : 10155,
+  "Detergents/Paper" : 830,
+  "Delicatessen" : 3636,
+  "Grocery" : 13699
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 30624,
+  "Milk" : 7209,
+  "Frozen" : 18711,
+  "Detergents/Paper" : 763,
+  "Delicatessen" : 2876,
+  "Grocery" : 4897
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 11686,
+  "Milk" : 2154,
+  "Frozen" : 3527,
+  "Detergents/Paper" : 592,
+  "Delicatessen" : 697,
+  "Grocery" : 6824
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 9670,
+  "Milk" : 2280,
+  "Frozen" : 520,
+  "Detergents/Paper" : 402,
+  "Delicatessen" : 347,
+  "Grocery" : 2112
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 583,
+  "Milk" : 685,
+  "Frozen" : 469,
+  "Detergents/Paper" : 954,
+  "Delicatessen" : 18,
+  "Grocery" : 2216
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 1956,
+  "Milk" : 891,
+  "Frozen" : 1383,
+  "Detergents/Paper" : 5,
+  "Delicatessen" : 1328,
+  "Grocery" : 5226
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 6373,
+  "Milk" : 780,
+  "Frozen" : 878,
+  "Detergents/Paper" : 288,
+  "Delicatessen" : 285,
+  "Grocery" : 950
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 1537,
+  "Milk" : 3748,
+  "Frozen" : 1859,
+  "Detergents/Paper" : 3381,
+  "Delicatessen" : 806,
+  "Grocery" : 5838
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 18567,
+  "Milk" : 1895,
+  "Frozen" : 1801,
+  "Detergents/Paper" : 244,
+  "Delicatessen" : 2100,
+  "Grocery" : 1393
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 7291,
+  "Milk" : 1012,
+  "Frozen" : 1291,
+  "Detergents/Paper" : 240,
+  "Delicatessen" : 1775,
+  "Grocery" : 2062
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 3317,
+  "Milk" : 6602,
+  "Frozen" : 1329,
+  "Detergents/Paper" : 3961,
+  "Delicatessen" : 1215,
+  "Grocery" : 6861
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 18044,
+  "Milk" : 1475,
+  "Frozen" : 2532,
+  "Detergents/Paper" : 130,
+  "Delicatessen" : 1158,
+  "Grocery" : 2046
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 4155,
+  "Milk" : 367,
+  "Frozen" : 2306,
+  "Detergents/Paper" : 86,
+  "Delicatessen" : 130,
+  "Grocery" : 1390
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 14755,
+  "Milk" : 899,
+  "Frozen" : 1765,
+  "Detergents/Paper" : 56,
+  "Delicatessen" : 749,
+  "Grocery" : 1382
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 5041,
+  "Milk" : 1115,
+  "Frozen" : 7496,
+  "Detergents/Paper" : 256,
+  "Delicatessen" : 375,
+  "Grocery" : 2856
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 7274,
+  "Milk" : 659,
+  "Frozen" : 784,
+  "Detergents/Paper" : 70,
+  "Delicatessen" : 659,
+  "Grocery" : 1499
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 12680,
+  "Milk" : 3243,
+  "Frozen" : 660,
+  "Detergents/Paper" : 761,
+  "Delicatessen" : 786,
+  "Grocery" : 4157
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 4042,
+  "Milk" : 2204,
+  "Frozen" : 2286,
+  "Detergents/Paper" : 263,
+  "Delicatessen" : 689,
+  "Grocery" : 1563
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 1869,
+  "Milk" : 577,
+  "Frozen" : 950,
+  "Detergents/Paper" : 4762,
+  "Delicatessen" : 203,
+  "Grocery" : 572
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 8656,
+  "Milk" : 2746,
+  "Frozen" : 6845,
+  "Detergents/Paper" : 694,
+  "Delicatessen" : 980,
+  "Grocery" : 2501
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 2344,
+  "Milk" : 10678,
+  "Frozen" : 1439,
+  "Detergents/Paper" : 1566,
+  "Delicatessen" : 490,
+  "Grocery" : 3828
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 25962,
+  "Milk" : 1780,
+  "Frozen" : 638,
+  "Detergents/Paper" : 284,
+  "Delicatessen" : 834,
+  "Grocery" : 3838
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 964,
+  "Milk" : 4984,
+  "Frozen" : 937,
+  "Detergents/Paper" : 409,
+  "Delicatessen" : 7,
+  "Grocery" : 3316
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 15603,
+  "Milk" : 2703,
+  "Frozen" : 4260,
+  "Detergents/Paper" : 325,
+  "Delicatessen" : 2563,
+  "Grocery" : 3833
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 1838,
+  "Milk" : 6380,
+  "Frozen" : 1218,
+  "Detergents/Paper" : 1216,
+  "Delicatessen" : 295,
+  "Grocery" : 2824
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 8635,
+  "Milk" : 820,
+  "Frozen" : 2312,
+  "Detergents/Paper" : 415,
+  "Delicatessen" : 225,
+  "Grocery" : 3047
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 18692,
+  "Milk" : 3838,
+  "Frozen" : 4634,
+  "Detergents/Paper" : 28,
+  "Delicatessen" : 1215,
+  "Grocery" : 593
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 7363,
+  "Milk" : 475,
+  "Frozen" : 1112,
+  "Detergents/Paper" : 72,
+  "Delicatessen" : 216,
+  "Grocery" : 585
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 47493,
+  "Milk" : 2567,
+  "Frozen" : 5243,
+  "Detergents/Paper" : 828,
+  "Delicatessen" : 2253,
+  "Grocery" : 3779
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 22096,
+  "Milk" : 3575,
+  "Frozen" : 11422,
+  "Detergents/Paper" : 343,
+  "Delicatessen" : 2564,
+  "Grocery" : 7041
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 24929,
+  "Milk" : 1801,
+  "Frozen" : 2216,
+  "Detergents/Paper" : 412,
+  "Delicatessen" : 1047,
+  "Grocery" : 2475
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 18226,
+  "Milk" : 659,
+  "Frozen" : 3752,
+  "Detergents/Paper" : 586,
+  "Delicatessen" : 578,
+  "Grocery" : 2914
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 11210,
+  "Milk" : 3576,
+  "Frozen" : 561,
+  "Detergents/Paper" : 1682,
+  "Delicatessen" : 2398,
+  "Grocery" : 5119
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 8885,
+  "Milk" : 2428,
+  "Frozen" : 1777,
+  "Detergents/Paper" : 430,
+  "Delicatessen" : 610,
+  "Grocery" : 1777
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 13569,
+  "Milk" : 346,
+  "Frozen" : 2077,
+  "Detergents/Paper" : 44,
+  "Delicatessen" : 659,
+  "Grocery" : 489
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 15671,
+  "Milk" : 5279,
+  "Frozen" : 559,
+  "Detergents/Paper" : 562,
+  "Delicatessen" : 572,
+  "Grocery" : 2406
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 8040,
+  "Milk" : 3795,
+  "Frozen" : 6340,
+  "Detergents/Paper" : 918,
+  "Delicatessen" : 291,
+  "Grocery" : 2070
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 3191,
+  "Milk" : 1993,
+  "Frozen" : 1730,
+  "Detergents/Paper" : 234,
+  "Delicatessen" : 710,
+  "Grocery" : 1799
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 6623,
+  "Milk" : 1860,
+  "Frozen" : 7683,
+  "Detergents/Paper" : 205,
+  "Delicatessen" : 1693,
+  "Grocery" : 4740
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 29526,
+  "Milk" : 7961,
+  "Frozen" : 432,
+  "Detergents/Paper" : 363,
+  "Delicatessen" : 1391,
+  "Grocery" : 16966
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 31614,
+  "Milk" : 489,
+  "Frozen" : 3242,
+  "Detergents/Paper" : 111,
+  "Delicatessen" : 615,
+  "Grocery" : 1495
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 11092,
+  "Milk" : 5008,
+  "Frozen" : 453,
+  "Detergents/Paper" : 392,
+  "Delicatessen" : 373,
+  "Grocery" : 5249
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 8475,
+  "Milk" : 1931,
+  "Frozen" : 5004,
+  "Detergents/Paper" : 3593,
+  "Delicatessen" : 987,
+  "Grocery" : 1883
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 56083,
+  "Milk" : 4563,
+  "Frozen" : 6422,
+  "Detergents/Paper" : 730,
+  "Delicatessen" : 3321,
+  "Grocery" : 2124
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 53205,
+  "Milk" : 4959,
+  "Frozen" : 3012,
+  "Detergents/Paper" : 967,
+  "Delicatessen" : 818,
+  "Grocery" : 7336
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 9193,
+  "Milk" : 4885,
+  "Frozen" : 327,
+  "Detergents/Paper" : 780,
+  "Delicatessen" : 548,
+  "Grocery" : 2157
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 7858,
+  "Milk" : 1110,
+  "Frozen" : 6818,
+  "Detergents/Paper" : 49,
+  "Delicatessen" : 287,
+  "Grocery" : 1094
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 23257,
+  "Milk" : 1372,
+  "Frozen" : 982,
+  "Detergents/Paper" : 429,
+  "Delicatessen" : 655,
+  "Grocery" : 1677
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 2153,
+  "Milk" : 1115,
+  "Frozen" : 4324,
+  "Detergents/Paper" : 2894,
+  "Delicatessen" : 411,
+  "Grocery" : 6684
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 20893,
+  "Milk" : 1222,
+  "Frozen" : 3975,
+  "Detergents/Paper" : 737,
+  "Delicatessen" : 3628,
+  "Grocery" : 2576
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 15218,
+  "Milk" : 258,
+  "Frozen" : 2516,
+  "Detergents/Paper" : 333,
+  "Delicatessen" : 204,
+  "Grocery" : 1138
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 4720,
+  "Milk" : 1032,
+  "Frozen" : 5500,
+  "Detergents/Paper" : 197,
+  "Delicatessen" : 56,
+  "Grocery" : 975
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 2083,
+  "Milk" : 5007,
+  "Frozen" : 1120,
+  "Detergents/Paper" : 147,
+  "Delicatessen" : 1550,
+  "Grocery" : 1563
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Lisbon",
+  "Fresh" : 514,
+  "Milk" : 8323,
+  "Frozen" : 529,
+  "Detergents/Paper" : 93,
+  "Delicatessen" : 1040,
+  "Grocery" : 6869
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 21273,
+  "Milk" : 2013,
+  "Frozen" : 909,
+  "Detergents/Paper" : 811,
+  "Delicatessen" : 1854,
+  "Grocery" : 6550
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 19087,
+  "Milk" : 1304,
+  "Frozen" : 3045,
+  "Detergents/Paper" : 710,
+  "Delicatessen" : 898,
+  "Grocery" : 3643
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 444,
+  "Milk" : 879,
+  "Frozen" : 264,
+  "Detergents/Paper" : 290,
+  "Delicatessen" : 259,
+  "Grocery" : 2060
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 17327,
+  "Milk" : 2374,
+  "Frozen" : 1149,
+  "Detergents/Paper" : 351,
+  "Delicatessen" : 925,
+  "Grocery" : 2842
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 6987,
+  "Milk" : 1020,
+  "Frozen" : 416,
+  "Detergents/Paper" : 257,
+  "Delicatessen" : 656,
+  "Grocery" : 3007
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 7034,
+  "Milk" : 1492,
+  "Frozen" : 12569,
+  "Detergents/Paper" : 299,
+  "Delicatessen" : 1117,
+  "Grocery" : 2405
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 29635,
+  "Milk" : 2335,
+  "Frozen" : 3046,
+  "Detergents/Paper" : 371,
+  "Delicatessen" : 117,
+  "Grocery" : 8280
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 9784,
+  "Milk" : 925,
+  "Frozen" : 4447,
+  "Detergents/Paper" : 183,
+  "Delicatessen" : 297,
+  "Grocery" : 2405
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 10617,
+  "Milk" : 1795,
+  "Frozen" : 1483,
+  "Detergents/Paper" : 857,
+  "Delicatessen" : 1233,
+  "Grocery" : 7647
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 7127,
+  "Milk" : 1375,
+  "Frozen" : 2679,
+  "Detergents/Paper" : 83,
+  "Delicatessen" : 1059,
+  "Grocery" : 2201
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 1182,
+  "Milk" : 3088,
+  "Frozen" : 978,
+  "Detergents/Paper" : 821,
+  "Delicatessen" : 1637,
+  "Grocery" : 6114
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 11800,
+  "Milk" : 2713,
+  "Frozen" : 2121,
+  "Detergents/Paper" : 706,
+  "Delicatessen" : 51,
+  "Grocery" : 3558
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 1774,
+  "Milk" : 3696,
+  "Frozen" : 514,
+  "Detergents/Paper" : 275,
+  "Delicatessen" : 834,
+  "Grocery" : 2280
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 9155,
+  "Milk" : 1897,
+  "Frozen" : 2714,
+  "Detergents/Paper" : 228,
+  "Delicatessen" : 1113,
+  "Grocery" : 5167
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 15881,
+  "Milk" : 713,
+  "Frozen" : 3703,
+  "Detergents/Paper" : 1470,
+  "Delicatessen" : 229,
+  "Grocery" : 3315
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 13360,
+  "Milk" : 944,
+  "Frozen" : 915,
+  "Detergents/Paper" : 1679,
+  "Delicatessen" : 573,
+  "Grocery" : 11593
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 25977,
+  "Milk" : 3587,
+  "Frozen" : 2369,
+  "Detergents/Paper" : 140,
+  "Delicatessen" : 1092,
+  "Grocery" : 2464
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 4414,
+  "Milk" : 1610,
+  "Frozen" : 3498,
+  "Detergents/Paper" : 387,
+  "Delicatessen" : 834,
+  "Grocery" : 1431
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 542,
+  "Milk" : 899,
+  "Frozen" : 414,
+  "Detergents/Paper" : 88,
+  "Delicatessen" : 522,
+  "Grocery" : 1664
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 16933,
+  "Milk" : 2209,
+  "Frozen" : 7849,
+  "Detergents/Paper" : 210,
+  "Delicatessen" : 1534,
+  "Grocery" : 3389
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 5113,
+  "Milk" : 1486,
+  "Frozen" : 5127,
+  "Detergents/Paper" : 492,
+  "Delicatessen" : 739,
+  "Grocery" : 4583
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 9790,
+  "Milk" : 1786,
+  "Frozen" : 3570,
+  "Detergents/Paper" : 182,
+  "Delicatessen" : 1043,
+  "Grocery" : 5109
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 22321,
+  "Milk" : 3216,
+  "Frozen" : 2208,
+  "Detergents/Paper" : 178,
+  "Delicatessen" : 2602,
+  "Grocery" : 1447
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 13970,
+  "Milk" : 1511,
+  "Frozen" : 650,
+  "Detergents/Paper" : 146,
+  "Delicatessen" : 778,
+  "Grocery" : 1330
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 9351,
+  "Milk" : 1347,
+  "Frozen" : 8170,
+  "Detergents/Paper" : 442,
+  "Delicatessen" : 868,
+  "Grocery" : 2611
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 3,
+  "Milk" : 333,
+  "Frozen" : 15601,
+  "Detergents/Paper" : 15,
+  "Delicatessen" : 550,
+  "Grocery" : 7021
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Oporto",
+  "Fresh" : 2617,
+  "Milk" : 1188,
+  "Frozen" : 9584,
+  "Detergents/Paper" : 573,
+  "Delicatessen" : 1942,
+  "Grocery" : 5332
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5876,
+  "Milk" : 6157,
+  "Frozen" : 839,
+  "Detergents/Paper" : 370,
+  "Delicatessen" : 4478,
+  "Grocery" : 2933
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 29955,
+  "Milk" : 4362,
+  "Frozen" : 1729,
+  "Detergents/Paper" : 862,
+  "Delicatessen" : 4626,
+  "Grocery" : 5428
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4625,
+  "Milk" : 8579,
+  "Frozen" : 4575,
+  "Detergents/Paper" : 2447,
+  "Delicatessen" : 1542,
+  "Grocery" : 7030
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 694,
+  "Milk" : 8533,
+  "Frozen" : 443,
+  "Detergents/Paper" : 6907,
+  "Delicatessen" : 156,
+  "Grocery" : 10518
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2438,
+  "Milk" : 8002,
+  "Frozen" : 6269,
+  "Detergents/Paper" : 3459,
+  "Delicatessen" : 3,
+  "Grocery" : 9819
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 759,
+  "Milk" : 18664,
+  "Frozen" : 6114,
+  "Detergents/Paper" : 536,
+  "Delicatessen" : 4100,
+  "Grocery" : 1660
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3884,
+  "Milk" : 3801,
+  "Frozen" : 876,
+  "Detergents/Paper" : 397,
+  "Delicatessen" : 4829,
+  "Grocery" : 1641
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 10683,
+  "Milk" : 21858,
+  "Frozen" : 3635,
+  "Detergents/Paper" : 282,
+  "Delicatessen" : 5120,
+  "Grocery" : 15400
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8708,
+  "Milk" : 3634,
+  "Frozen" : 2349,
+  "Detergents/Paper" : 2123,
+  "Delicatessen" : 5137,
+  "Grocery" : 6100
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2126,
+  "Milk" : 3289,
+  "Frozen" : 1535,
+  "Detergents/Paper" : 235,
+  "Delicatessen" : 4365,
+  "Grocery" : 3281
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4456,
+  "Milk" : 5266,
+  "Frozen" : 25,
+  "Detergents/Paper" : 6818,
+  "Delicatessen" : 1393,
+  "Grocery" : 13227
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 13134,
+  "Milk" : 9347,
+  "Frozen" : 3141,
+  "Detergents/Paper" : 5079,
+  "Delicatessen" : 1894,
+  "Grocery" : 14316
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 13265,
+  "Milk" : 1196,
+  "Frozen" : 6404,
+  "Detergents/Paper" : 507,
+  "Delicatessen" : 1788,
+  "Grocery" : 4221
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5963,
+  "Milk" : 3648,
+  "Frozen" : 425,
+  "Detergents/Paper" : 1716,
+  "Delicatessen" : 750,
+  "Grocery" : 6192
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 10253,
+  "Milk" : 1114,
+  "Frozen" : 397,
+  "Detergents/Paper" : 964,
+  "Delicatessen" : 412,
+  "Grocery" : 3821
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7780,
+  "Milk" : 2495,
+  "Frozen" : 669,
+  "Detergents/Paper" : 2518,
+  "Delicatessen" : 501,
+  "Grocery" : 9464
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5567,
+  "Milk" : 871,
+  "Frozen" : 3383,
+  "Detergents/Paper" : 375,
+  "Delicatessen" : 569,
+  "Grocery" : 2010
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 31276,
+  "Milk" : 1917,
+  "Frozen" : 9408,
+  "Detergents/Paper" : 2381,
+  "Delicatessen" : 4334,
+  "Grocery" : 4469
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9898,
+  "Milk" : 961,
+  "Frozen" : 3151,
+  "Detergents/Paper" : 242,
+  "Delicatessen" : 833,
+  "Grocery" : 2861
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 14276,
+  "Milk" : 803,
+  "Frozen" : 485,
+  "Detergents/Paper" : 100,
+  "Delicatessen" : 518,
+  "Grocery" : 3045
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 43088,
+  "Milk" : 2100,
+  "Frozen" : 1200,
+  "Detergents/Paper" : 1107,
+  "Delicatessen" : 823,
+  "Grocery" : 2609
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 18815,
+  "Milk" : 3610,
+  "Frozen" : 1148,
+  "Detergents/Paper" : 2134,
+  "Delicatessen" : 2963,
+  "Grocery" : 11107
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2612,
+  "Milk" : 4339,
+  "Frozen" : 2088,
+  "Detergents/Paper" : 820,
+  "Delicatessen" : 985,
+  "Grocery" : 3133
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 21632,
+  "Milk" : 1318,
+  "Frozen" : 266,
+  "Detergents/Paper" : 918,
+  "Delicatessen" : 405,
+  "Grocery" : 2886
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 29729,
+  "Milk" : 4786,
+  "Frozen" : 6130,
+  "Detergents/Paper" : 361,
+  "Delicatessen" : 1083,
+  "Grocery" : 7326
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1502,
+  "Milk" : 1979,
+  "Frozen" : 425,
+  "Detergents/Paper" : 483,
+  "Delicatessen" : 395,
+  "Grocery" : 2262
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 56159,
+  "Milk" : 555,
+  "Frozen" : 10002,
+  "Detergents/Paper" : 212,
+  "Delicatessen" : 2916,
+  "Grocery" : 902
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 24025,
+  "Milk" : 4332,
+  "Frozen" : 9510,
+  "Detergents/Paper" : 1145,
+  "Delicatessen" : 5864,
+  "Grocery" : 4757
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 19176,
+  "Milk" : 3065,
+  "Frozen" : 2033,
+  "Detergents/Paper" : 2575,
+  "Delicatessen" : 2802,
+  "Grocery" : 5956
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6269,
+  "Milk" : 1095,
+  "Frozen" : 3860,
+  "Detergents/Paper" : 609,
+  "Delicatessen" : 2162,
+  "Grocery" : 1980
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3347,
+  "Milk" : 4051,
+  "Frozen" : 239,
+  "Detergents/Paper" : 1538,
+  "Delicatessen" : 301,
+  "Grocery" : 6996
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 27329,
+  "Milk" : 1449,
+  "Frozen" : 2436,
+  "Detergents/Paper" : 204,
+  "Delicatessen" : 1333,
+  "Grocery" : 1947
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5264,
+  "Milk" : 3683,
+  "Frozen" : 1057,
+  "Detergents/Paper" : 2024,
+  "Delicatessen" : 1130,
+  "Grocery" : 5005
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 13779,
+  "Milk" : 1970,
+  "Frozen" : 596,
+  "Detergents/Paper" : 227,
+  "Delicatessen" : 436,
+  "Grocery" : 1648
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6137,
+  "Milk" : 5360,
+  "Frozen" : 129,
+  "Detergents/Paper" : 3084,
+  "Delicatessen" : 1603,
+  "Grocery" : 8040
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4760,
+  "Milk" : 1227,
+  "Frozen" : 3724,
+  "Detergents/Paper" : 1247,
+  "Delicatessen" : 1145,
+  "Grocery" : 3250
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9,
+  "Milk" : 1534,
+  "Frozen" : 175,
+  "Detergents/Paper" : 3468,
+  "Delicatessen" : 27,
+  "Grocery" : 7417
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2446,
+  "Milk" : 7260,
+  "Frozen" : 5870,
+  "Detergents/Paper" : 788,
+  "Delicatessen" : 3095,
+  "Grocery" : 3993
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8352,
+  "Milk" : 2820,
+  "Frozen" : 779,
+  "Detergents/Paper" : 656,
+  "Delicatessen" : 144,
+  "Grocery" : 1293
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 16705,
+  "Milk" : 2037,
+  "Frozen" : 10643,
+  "Detergents/Paper" : 116,
+  "Delicatessen" : 1365,
+  "Grocery" : 3202
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4420,
+  "Milk" : 5139,
+  "Frozen" : 8872,
+  "Detergents/Paper" : 1321,
+  "Delicatessen" : 181,
+  "Grocery" : 2661
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 20398,
+  "Milk" : 1137,
+  "Frozen" : 4407,
+  "Detergents/Paper" : 3,
+  "Delicatessen" : 975,
+  "Grocery" : 3
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 717,
+  "Milk" : 3587,
+  "Frozen" : 7530,
+  "Detergents/Paper" : 529,
+  "Delicatessen" : 894,
+  "Grocery" : 6532
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 10766,
+  "Milk" : 1175,
+  "Frozen" : 2096,
+  "Detergents/Paper" : 301,
+  "Delicatessen" : 167,
+  "Grocery" : 2067
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1640,
+  "Milk" : 3259,
+  "Frozen" : 868,
+  "Detergents/Paper" : 1202,
+  "Delicatessen" : 1653,
+  "Grocery" : 3655
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7005,
+  "Milk" : 829,
+  "Frozen" : 430,
+  "Detergents/Paper" : 610,
+  "Delicatessen" : 529,
+  "Grocery" : 3009
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 20874,
+  "Milk" : 1563,
+  "Frozen" : 2320,
+  "Detergents/Paper" : 550,
+  "Delicatessen" : 772,
+  "Grocery" : 1783
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7864,
+  "Milk" : 542,
+  "Frozen" : 9735,
+  "Detergents/Paper" : 165,
+  "Delicatessen" : 46,
+  "Grocery" : 4042
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 24904,
+  "Milk" : 3836,
+  "Frozen" : 3443,
+  "Detergents/Paper" : 454,
+  "Delicatessen" : 3178,
+  "Grocery" : 5330
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11405,
+  "Milk" : 596,
+  "Frozen" : 3347,
+  "Detergents/Paper" : 69,
+  "Delicatessen" : 360,
+  "Grocery" : 1638
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 12754,
+  "Milk" : 2762,
+  "Frozen" : 8693,
+  "Detergents/Paper" : 627,
+  "Delicatessen" : 1117,
+  "Grocery" : 2530
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3,
+  "Milk" : 2920,
+  "Frozen" : 440,
+  "Detergents/Paper" : 223,
+  "Delicatessen" : 709,
+  "Grocery" : 6252
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 403,
+  "Milk" : 254,
+  "Frozen" : 774,
+  "Detergents/Paper" : 54,
+  "Delicatessen" : 63,
+  "Grocery" : 610
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 503,
+  "Milk" : 112,
+  "Frozen" : 895,
+  "Detergents/Paper" : 56,
+  "Delicatessen" : 132,
+  "Grocery" : 778
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9658,
+  "Milk" : 2182,
+  "Frozen" : 5639,
+  "Detergents/Paper" : 215,
+  "Delicatessen" : 323,
+  "Grocery" : 1909
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 56082,
+  "Milk" : 3504,
+  "Frozen" : 18028,
+  "Detergents/Paper" : 1480,
+  "Delicatessen" : 2498,
+  "Grocery" : 8906
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 14100,
+  "Milk" : 2132,
+  "Frozen" : 1336,
+  "Detergents/Paper" : 1491,
+  "Delicatessen" : 548,
+  "Grocery" : 3445
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 15587,
+  "Milk" : 1014,
+  "Frozen" : 910,
+  "Detergents/Paper" : 139,
+  "Delicatessen" : 1378,
+  "Grocery" : 3970
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11818,
+  "Milk" : 1648,
+  "Frozen" : 2276,
+  "Detergents/Paper" : 169,
+  "Delicatessen" : 1647,
+  "Grocery" : 1694
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 19046,
+  "Milk" : 2770,
+  "Frozen" : 8853,
+  "Detergents/Paper" : 483,
+  "Delicatessen" : 2708,
+  "Grocery" : 2469
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 14438,
+  "Milk" : 2295,
+  "Frozen" : 3220,
+  "Detergents/Paper" : 585,
+  "Delicatessen" : 1561,
+  "Grocery" : 1733
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 18044,
+  "Milk" : 1080,
+  "Frozen" : 2555,
+  "Detergents/Paper" : 118,
+  "Delicatessen" : 1266,
+  "Grocery" : 2000
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11134,
+  "Milk" : 793,
+  "Frozen" : 2715,
+  "Detergents/Paper" : 276,
+  "Delicatessen" : 610,
+  "Grocery" : 2988
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11173,
+  "Milk" : 2521,
+  "Frozen" : 1517,
+  "Detergents/Paper" : 310,
+  "Delicatessen" : 222,
+  "Grocery" : 3355
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6990,
+  "Milk" : 3880,
+  "Frozen" : 1647,
+  "Detergents/Paper" : 319,
+  "Delicatessen" : 1160,
+  "Grocery" : 5380
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 20049,
+  "Milk" : 1891,
+  "Frozen" : 5343,
+  "Detergents/Paper" : 411,
+  "Delicatessen" : 933,
+  "Grocery" : 2362
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8258,
+  "Milk" : 2344,
+  "Frozen" : 3896,
+  "Detergents/Paper" : 266,
+  "Delicatessen" : 635,
+  "Grocery" : 2147
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 17160,
+  "Milk" : 1200,
+  "Frozen" : 2417,
+  "Detergents/Paper" : 174,
+  "Delicatessen" : 1136,
+  "Grocery" : 3412
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4020,
+  "Milk" : 3234,
+  "Frozen" : 2395,
+  "Detergents/Paper" : 264,
+  "Delicatessen" : 255,
+  "Grocery" : 1498
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 12212,
+  "Milk" : 201,
+  "Frozen" : 1991,
+  "Detergents/Paper" : 25,
+  "Delicatessen" : 860,
+  "Grocery" : 245
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 36050,
+  "Milk" : 1642,
+  "Frozen" : 4787,
+  "Detergents/Paper" : 500,
+  "Delicatessen" : 1621,
+  "Grocery" : 2961
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 76237,
+  "Milk" : 3473,
+  "Frozen" : 16538,
+  "Detergents/Paper" : 778,
+  "Delicatessen" : 918,
+  "Grocery" : 7102
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 19219,
+  "Milk" : 1840,
+  "Frozen" : 8195,
+  "Detergents/Paper" : 349,
+  "Delicatessen" : 483,
+  "Grocery" : 1658
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 140,
+  "Milk" : 8847,
+  "Frozen" : 142,
+  "Detergents/Paper" : 1062,
+  "Delicatessen" : 3,
+  "Grocery" : 3823
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 42312,
+  "Milk" : 926,
+  "Frozen" : 1718,
+  "Detergents/Paper" : 410,
+  "Delicatessen" : 1819,
+  "Grocery" : 1510
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7149,
+  "Milk" : 2428,
+  "Frozen" : 6316,
+  "Detergents/Paper" : 395,
+  "Delicatessen" : 911,
+  "Grocery" : 699
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2101,
+  "Milk" : 589,
+  "Frozen" : 346,
+  "Detergents/Paper" : 70,
+  "Delicatessen" : 310,
+  "Grocery" : 314
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 14903,
+  "Milk" : 2032,
+  "Frozen" : 576,
+  "Detergents/Paper" : 955,
+  "Delicatessen" : 328,
+  "Grocery" : 2479
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9434,
+  "Milk" : 1042,
+  "Frozen" : 436,
+  "Detergents/Paper" : 256,
+  "Delicatessen" : 396,
+  "Grocery" : 1235
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7388,
+  "Milk" : 1882,
+  "Frozen" : 720,
+  "Detergents/Paper" : 47,
+  "Delicatessen" : 537,
+  "Grocery" : 2174
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6300,
+  "Milk" : 1289,
+  "Frozen" : 1170,
+  "Detergents/Paper" : 199,
+  "Delicatessen" : 326,
+  "Grocery" : 2591
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3087,
+  "Milk" : 8080,
+  "Frozen" : 661,
+  "Detergents/Paper" : 721,
+  "Delicatessen" : 36,
+  "Grocery" : 8282
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 13537,
+  "Milk" : 4257,
+  "Frozen" : 155,
+  "Detergents/Paper" : 249,
+  "Delicatessen" : 3271,
+  "Grocery" : 5034
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5387,
+  "Milk" : 4979,
+  "Frozen" : 825,
+  "Detergents/Paper" : 637,
+  "Delicatessen" : 929,
+  "Grocery" : 3343
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 17623,
+  "Milk" : 4280,
+  "Frozen" : 2279,
+  "Detergents/Paper" : 960,
+  "Delicatessen" : 2616,
+  "Grocery" : 7305
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 30379,
+  "Milk" : 13252,
+  "Frozen" : 321,
+  "Detergents/Paper" : 51,
+  "Delicatessen" : 1450,
+  "Grocery" : 5189
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 37036,
+  "Milk" : 7152,
+  "Frozen" : 2995,
+  "Detergents/Paper" : 20,
+  "Delicatessen" : 3,
+  "Grocery" : 8253
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 10405,
+  "Milk" : 1596,
+  "Frozen" : 8425,
+  "Detergents/Paper" : 399,
+  "Delicatessen" : 318,
+  "Grocery" : 1096
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 18827,
+  "Milk" : 3677,
+  "Frozen" : 118,
+  "Detergents/Paper" : 516,
+  "Delicatessen" : 201,
+  "Grocery" : 1988
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7769,
+  "Milk" : 1936,
+  "Frozen" : 926,
+  "Detergents/Paper" : 73,
+  "Delicatessen" : 520,
+  "Grocery" : 2177
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9203,
+  "Milk" : 3373,
+  "Frozen" : 1286,
+  "Detergents/Paper" : 1082,
+  "Delicatessen" : 526,
+  "Grocery" : 2707
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5924,
+  "Milk" : 584,
+  "Frozen" : 4052,
+  "Detergents/Paper" : 283,
+  "Delicatessen" : 434,
+  "Grocery" : 542
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 31812,
+  "Milk" : 1433,
+  "Frozen" : 800,
+  "Detergents/Paper" : 113,
+  "Delicatessen" : 1440,
+  "Grocery" : 1651
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 16225,
+  "Milk" : 1825,
+  "Frozen" : 853,
+  "Detergents/Paper" : 170,
+  "Delicatessen" : 1067,
+  "Grocery" : 1765
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1289,
+  "Milk" : 3328,
+  "Frozen" : 531,
+  "Detergents/Paper" : 255,
+  "Delicatessen" : 1774,
+  "Grocery" : 2022
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 18840,
+  "Milk" : 1371,
+  "Frozen" : 3001,
+  "Detergents/Paper" : 352,
+  "Delicatessen" : 184,
+  "Grocery" : 3135
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3463,
+  "Milk" : 9250,
+  "Frozen" : 779,
+  "Detergents/Paper" : 302,
+  "Delicatessen" : 1627,
+  "Grocery" : 2368
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 622,
+  "Milk" : 55,
+  "Frozen" : 75,
+  "Detergents/Paper" : 7,
+  "Delicatessen" : 8,
+  "Grocery" : 137
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 17773,
+  "Milk" : 1366,
+  "Frozen" : 3378,
+  "Detergents/Paper" : 811,
+  "Delicatessen" : 418,
+  "Grocery" : 2474
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 12434,
+  "Milk" : 540,
+  "Frozen" : 1092,
+  "Detergents/Paper" : 3,
+  "Delicatessen" : 2233,
+  "Grocery" : 283
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 15177,
+  "Milk" : 2024,
+  "Frozen" : 2665,
+  "Detergents/Paper" : 232,
+  "Delicatessen" : 610,
+  "Grocery" : 3810
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2926,
+  "Milk" : 3195,
+  "Frozen" : 405,
+  "Detergents/Paper" : 1680,
+  "Delicatessen" : 693,
+  "Grocery" : 3268
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5809,
+  "Milk" : 735,
+  "Frozen" : 1393,
+  "Detergents/Paper" : 79,
+  "Delicatessen" : 429,
+  "Grocery" : 803
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5414,
+  "Milk" : 717,
+  "Frozen" : 2399,
+  "Detergents/Paper" : 69,
+  "Delicatessen" : 750,
+  "Grocery" : 2155
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 955,
+  "Milk" : 5479,
+  "Frozen" : 333,
+  "Detergents/Paper" : 2840,
+  "Delicatessen" : 707,
+  "Grocery" : 6536
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 286,
+  "Milk" : 1208,
+  "Frozen" : 2515,
+  "Detergents/Paper" : 153,
+  "Delicatessen" : 1442,
+  "Grocery" : 5241
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 45640,
+  "Milk" : 6958,
+  "Frozen" : 7368,
+  "Detergents/Paper" : 1532,
+  "Delicatessen" : 230,
+  "Grocery" : 6536
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 12759,
+  "Milk" : 7330,
+  "Frozen" : 1752,
+  "Detergents/Paper" : 20,
+  "Delicatessen" : 2631,
+  "Grocery" : 4533
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11002,
+  "Milk" : 7075,
+  "Frozen" : 1152,
+  "Detergents/Paper" : 120,
+  "Delicatessen" : 395,
+  "Grocery" : 4945
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3157,
+  "Milk" : 4888,
+  "Frozen" : 4477,
+  "Detergents/Paper" : 273,
+  "Delicatessen" : 2165,
+  "Grocery" : 2500
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 12356,
+  "Milk" : 6036,
+  "Frozen" : 402,
+  "Detergents/Paper" : 1382,
+  "Delicatessen" : 2794,
+  "Grocery" : 8887
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 327,
+  "Milk" : 918,
+  "Frozen" : 74,
+  "Detergents/Paper" : 334,
+  "Delicatessen" : 11,
+  "Grocery" : 4710
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8170,
+  "Milk" : 6448,
+  "Frozen" : 2181,
+  "Detergents/Paper" : 58,
+  "Delicatessen" : 247,
+  "Grocery" : 1139
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3009,
+  "Milk" : 521,
+  "Frozen" : 3470,
+  "Detergents/Paper" : 949,
+  "Delicatessen" : 727,
+  "Grocery" : 854
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 16936,
+  "Milk" : 6250,
+  "Frozen" : 7332,
+  "Detergents/Paper" : 118,
+  "Delicatessen" : 64,
+  "Grocery" : 1981
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 13624,
+  "Milk" : 295,
+  "Frozen" : 890,
+  "Detergents/Paper" : 43,
+  "Delicatessen" : 84,
+  "Grocery" : 1381
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5509,
+  "Milk" : 1461,
+  "Frozen" : 547,
+  "Detergents/Paper" : 187,
+  "Delicatessen" : 409,
+  "Grocery" : 2251
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7107,
+  "Milk" : 1012,
+  "Frozen" : 806,
+  "Detergents/Paper" : 355,
+  "Delicatessen" : 1142,
+  "Grocery" : 2974
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 17023,
+  "Milk" : 5139,
+  "Frozen" : 7888,
+  "Detergents/Paper" : 330,
+  "Delicatessen" : 1755,
+  "Grocery" : 5230
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 36817,
+  "Milk" : 3045,
+  "Frozen" : 4802,
+  "Detergents/Paper" : 210,
+  "Delicatessen" : 1824,
+  "Grocery" : 1493
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 894,
+  "Milk" : 1703,
+  "Frozen" : 744,
+  "Detergents/Paper" : 759,
+  "Delicatessen" : 1153,
+  "Grocery" : 1841
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 680,
+  "Milk" : 1610,
+  "Frozen" : 862,
+  "Detergents/Paper" : 96,
+  "Delicatessen" : 379,
+  "Grocery" : 223
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 27901,
+  "Milk" : 3749,
+  "Frozen" : 4479,
+  "Detergents/Paper" : 603,
+  "Delicatessen" : 2503,
+  "Grocery" : 6964
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9061,
+  "Milk" : 829,
+  "Frozen" : 16919,
+  "Detergents/Paper" : 621,
+  "Delicatessen" : 139,
+  "Grocery" : 683
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11693,
+  "Milk" : 2317,
+  "Frozen" : 5845,
+  "Detergents/Paper" : 274,
+  "Delicatessen" : 1409,
+  "Grocery" : 2543
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3366,
+  "Milk" : 2884,
+  "Frozen" : 977,
+  "Detergents/Paper" : 167,
+  "Delicatessen" : 1104,
+  "Grocery" : 2431
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 49063,
+  "Milk" : 3965,
+  "Frozen" : 5970,
+  "Detergents/Paper" : 1041,
+  "Delicatessen" : 1404,
+  "Grocery" : 4252
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 25767,
+  "Milk" : 3613,
+  "Frozen" : 10303,
+  "Detergents/Paper" : 314,
+  "Delicatessen" : 1384,
+  "Grocery" : 2013
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 68951,
+  "Milk" : 4411,
+  "Frozen" : 8692,
+  "Detergents/Paper" : 751,
+  "Delicatessen" : 2406,
+  "Grocery" : 12609
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 40254,
+  "Milk" : 640,
+  "Frozen" : 1042,
+  "Detergents/Paper" : 436,
+  "Delicatessen" : 18,
+  "Grocery" : 3600
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 7149,
+  "Milk" : 2247,
+  "Frozen" : 1619,
+  "Detergents/Paper" : 1226,
+  "Delicatessen" : 128,
+  "Grocery" : 1242
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 15354,
+  "Milk" : 2102,
+  "Frozen" : 8366,
+  "Detergents/Paper" : 386,
+  "Delicatessen" : 1027,
+  "Grocery" : 2828
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 16260,
+  "Milk" : 594,
+  "Frozen" : 848,
+  "Detergents/Paper" : 445,
+  "Delicatessen" : 258,
+  "Grocery" : 1296
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 42786,
+  "Milk" : 286,
+  "Frozen" : 1388,
+  "Detergents/Paper" : 32,
+  "Delicatessen" : 22,
+  "Grocery" : 471
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2708,
+  "Milk" : 2160,
+  "Frozen" : 502,
+  "Detergents/Paper" : 965,
+  "Delicatessen" : 1522,
+  "Grocery" : 2642
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6022,
+  "Milk" : 3354,
+  "Frozen" : 2507,
+  "Detergents/Paper" : 212,
+  "Delicatessen" : 686,
+  "Grocery" : 3261
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2838,
+  "Milk" : 3086,
+  "Frozen" : 3838,
+  "Detergents/Paper" : 825,
+  "Delicatessen" : 1060,
+  "Grocery" : 4329
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 255,
+  "Milk" : 5758,
+  "Frozen" : 349,
+  "Detergents/Paper" : 4595,
+  "Delicatessen" : 1328,
+  "Grocery" : 5923
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3043,
+  "Milk" : 1172,
+  "Frozen" : 2234,
+  "Detergents/Paper" : 217,
+  "Delicatessen" : 379,
+  "Grocery" : 1763
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1198,
+  "Milk" : 2602,
+  "Frozen" : 402,
+  "Detergents/Paper" : 3843,
+  "Delicatessen" : 303,
+  "Grocery" : 8335
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3428,
+  "Milk" : 2380,
+  "Frozen" : 1341,
+  "Detergents/Paper" : 1184,
+  "Delicatessen" : 665,
+  "Grocery" : 2028
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3521,
+  "Milk" : 1099,
+  "Frozen" : 1796,
+  "Detergents/Paper" : 173,
+  "Delicatessen" : 995,
+  "Grocery" : 1997
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 608,
+  "Milk" : 1106,
+  "Frozen" : 830,
+  "Detergents/Paper" : 90,
+  "Delicatessen" : 195,
+  "Grocery" : 1533
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 14039,
+  "Milk" : 7393,
+  "Frozen" : 6386,
+  "Detergents/Paper" : 1333,
+  "Delicatessen" : 2341,
+  "Grocery" : 2548
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 190,
+  "Milk" : 727,
+  "Frozen" : 245,
+  "Detergents/Paper" : 184,
+  "Delicatessen" : 127,
+  "Grocery" : 2012
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 22686,
+  "Milk" : 134,
+  "Frozen" : 3157,
+  "Detergents/Paper" : 9,
+  "Delicatessen" : 548,
+  "Grocery" : 218
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 796,
+  "Milk" : 5878,
+  "Frozen" : 340,
+  "Detergents/Paper" : 232,
+  "Delicatessen" : 776,
+  "Grocery" : 2109
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 19746,
+  "Milk" : 2872,
+  "Frozen" : 2601,
+  "Detergents/Paper" : 468,
+  "Delicatessen" : 503,
+  "Grocery" : 2006
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4734,
+  "Milk" : 607,
+  "Frozen" : 1206,
+  "Detergents/Paper" : 159,
+  "Delicatessen" : 405,
+  "Grocery" : 864
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2121,
+  "Milk" : 1601,
+  "Frozen" : 560,
+  "Detergents/Paper" : 179,
+  "Delicatessen" : 712,
+  "Grocery" : 2453
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4627,
+  "Milk" : 997,
+  "Frozen" : 191,
+  "Detergents/Paper" : 1335,
+  "Delicatessen" : 314,
+  "Grocery" : 4438
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2615,
+  "Milk" : 873,
+  "Frozen" : 1103,
+  "Detergents/Paper" : 514,
+  "Delicatessen" : 468,
+  "Grocery" : 1524
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9561,
+  "Milk" : 2217,
+  "Frozen" : 1173,
+  "Detergents/Paper" : 222,
+  "Delicatessen" : 447,
+  "Grocery" : 1664
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3477,
+  "Milk" : 894,
+  "Frozen" : 1457,
+  "Detergents/Paper" : 252,
+  "Delicatessen" : 342,
+  "Grocery" : 534
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 22335,
+  "Milk" : 1196,
+  "Frozen" : 2046,
+  "Detergents/Paper" : 101,
+  "Delicatessen" : 558,
+  "Grocery" : 2406
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6211,
+  "Milk" : 337,
+  "Frozen" : 1089,
+  "Detergents/Paper" : 41,
+  "Delicatessen" : 296,
+  "Grocery" : 683
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 20105,
+  "Milk" : 1887,
+  "Frozen" : 8164,
+  "Detergents/Paper" : 716,
+  "Delicatessen" : 790,
+  "Grocery" : 1939
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6338,
+  "Milk" : 2256,
+  "Frozen" : 1492,
+  "Detergents/Paper" : 311,
+  "Delicatessen" : 686,
+  "Grocery" : 1668
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5841,
+  "Milk" : 1450,
+  "Frozen" : 597,
+  "Detergents/Paper" : 476,
+  "Delicatessen" : 70,
+  "Grocery" : 1162
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 38793,
+  "Milk" : 3154,
+  "Frozen" : 1034,
+  "Detergents/Paper" : 96,
+  "Delicatessen" : 1242,
+  "Grocery" : 2648
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3225,
+  "Milk" : 3294,
+  "Frozen" : 282,
+  "Detergents/Paper" : 68,
+  "Delicatessen" : 1114,
+  "Grocery" : 1902
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 28257,
+  "Milk" : 944,
+  "Frozen" : 3881,
+  "Detergents/Paper" : 600,
+  "Delicatessen" : 270,
+  "Grocery" : 2146
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 17770,
+  "Milk" : 4591,
+  "Frozen" : 9927,
+  "Detergents/Paper" : 246,
+  "Delicatessen" : 532,
+  "Grocery" : 1617
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 34454,
+  "Milk" : 7435,
+  "Frozen" : 2540,
+  "Detergents/Paper" : 1711,
+  "Delicatessen" : 2893,
+  "Grocery" : 8469
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1821,
+  "Milk" : 1364,
+  "Frozen" : 4006,
+  "Detergents/Paper" : 397,
+  "Delicatessen" : 361,
+  "Grocery" : 3450
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11635,
+  "Milk" : 922,
+  "Frozen" : 2583,
+  "Detergents/Paper" : 192,
+  "Delicatessen" : 1068,
+  "Grocery" : 1614
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1206,
+  "Milk" : 3620,
+  "Frozen" : 1945,
+  "Detergents/Paper" : 353,
+  "Delicatessen" : 967,
+  "Grocery" : 2857
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 20918,
+  "Milk" : 1916,
+  "Frozen" : 1960,
+  "Detergents/Paper" : 231,
+  "Delicatessen" : 961,
+  "Grocery" : 1573
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9785,
+  "Milk" : 848,
+  "Frozen" : 1677,
+  "Detergents/Paper" : 200,
+  "Delicatessen" : 406,
+  "Grocery" : 1172
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9385,
+  "Milk" : 1530,
+  "Frozen" : 3019,
+  "Detergents/Paper" : 227,
+  "Delicatessen" : 684,
+  "Grocery" : 1422
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3352,
+  "Milk" : 1181,
+  "Frozen" : 5502,
+  "Detergents/Paper" : 311,
+  "Delicatessen" : 1000,
+  "Grocery" : 1328
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2647,
+  "Milk" : 2761,
+  "Frozen" : 907,
+  "Detergents/Paper" : 95,
+  "Delicatessen" : 1827,
+  "Grocery" : 2313
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 518,
+  "Milk" : 4180,
+  "Frozen" : 659,
+  "Detergents/Paper" : 122,
+  "Delicatessen" : 654,
+  "Grocery" : 3600
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 23632,
+  "Milk" : 6730,
+  "Frozen" : 8620,
+  "Detergents/Paper" : 385,
+  "Delicatessen" : 819,
+  "Grocery" : 3842
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 12377,
+  "Milk" : 865,
+  "Frozen" : 1398,
+  "Detergents/Paper" : 149,
+  "Delicatessen" : 452,
+  "Grocery" : 3204
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9602,
+  "Milk" : 1316,
+  "Frozen" : 2921,
+  "Detergents/Paper" : 841,
+  "Delicatessen" : 290,
+  "Grocery" : 1263
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11535,
+  "Milk" : 1666,
+  "Frozen" : 6838,
+  "Detergents/Paper" : 64,
+  "Delicatessen" : 743,
+  "Grocery" : 1428
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11442,
+  "Milk" : 1032,
+  "Frozen" : 5390,
+  "Detergents/Paper" : 74,
+  "Delicatessen" : 247,
+  "Grocery" : 582
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 9612,
+  "Milk" : 577,
+  "Frozen" : 1601,
+  "Detergents/Paper" : 469,
+  "Delicatessen" : 375,
+  "Grocery" : 935
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4446,
+  "Milk" : 906,
+  "Frozen" : 3576,
+  "Detergents/Paper" : 153,
+  "Delicatessen" : 1014,
+  "Grocery" : 1238
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 27167,
+  "Milk" : 2801,
+  "Frozen" : 13223,
+  "Detergents/Paper" : 92,
+  "Delicatessen" : 1902,
+  "Grocery" : 2128
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 26539,
+  "Milk" : 4753,
+  "Frozen" : 220,
+  "Detergents/Paper" : 10,
+  "Delicatessen" : 340,
+  "Grocery" : 5091
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 25606,
+  "Milk" : 11006,
+  "Frozen" : 127,
+  "Detergents/Paper" : 632,
+  "Delicatessen" : 288,
+  "Grocery" : 4604
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 18073,
+  "Milk" : 4613,
+  "Frozen" : 4324,
+  "Detergents/Paper" : 914,
+  "Delicatessen" : 715,
+  "Grocery" : 3444
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6884,
+  "Milk" : 1046,
+  "Frozen" : 2069,
+  "Detergents/Paper" : 593,
+  "Delicatessen" : 378,
+  "Grocery" : 1167
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 25066,
+  "Milk" : 5010,
+  "Frozen" : 9806,
+  "Detergents/Paper" : 1092,
+  "Delicatessen" : 960,
+  "Grocery" : 5026
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 6633,
+  "Milk" : 2096,
+  "Frozen" : 1389,
+  "Detergents/Paper" : 1860,
+  "Delicatessen" : 1892,
+  "Grocery" : 4563
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 97,
+  "Milk" : 3605,
+  "Frozen" : 98,
+  "Detergents/Paper" : 2970,
+  "Delicatessen" : 62,
+  "Grocery" : 12400
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 4983,
+  "Milk" : 4859,
+  "Frozen" : 17866,
+  "Detergents/Paper" : 912,
+  "Delicatessen" : 2435,
+  "Grocery" : 6633
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5969,
+  "Milk" : 1990,
+  "Frozen" : 5679,
+  "Detergents/Paper" : 1135,
+  "Delicatessen" : 290,
+  "Grocery" : 3417
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 5065,
+  "Milk" : 5499,
+  "Frozen" : 364,
+  "Detergents/Paper" : 3485,
+  "Delicatessen" : 1063,
+  "Grocery" : 11055
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8861,
+  "Milk" : 3783,
+  "Frozen" : 633,
+  "Detergents/Paper" : 1580,
+  "Delicatessen" : 1521,
+  "Grocery" : 2223
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 26400,
+  "Milk" : 1377,
+  "Frozen" : 830,
+  "Detergents/Paper" : 948,
+  "Delicatessen" : 1218,
+  "Grocery" : 4172
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 11243,
+  "Milk" : 2408,
+  "Frozen" : 15348,
+  "Detergents/Paper" : 108,
+  "Delicatessen" : 1886,
+  "Grocery" : 2593
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 31012,
+  "Milk" : 16687,
+  "Frozen" : 15082,
+  "Detergents/Paper" : 439,
+  "Delicatessen" : 1163,
+  "Grocery" : 5429
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3047,
+  "Milk" : 5970,
+  "Frozen" : 2198,
+  "Detergents/Paper" : 850,
+  "Delicatessen" : 317,
+  "Grocery" : 4910
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8607,
+  "Milk" : 1750,
+  "Frozen" : 47,
+  "Detergents/Paper" : 84,
+  "Delicatessen" : 2501,
+  "Grocery" : 3580
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 3097,
+  "Milk" : 4230,
+  "Frozen" : 575,
+  "Detergents/Paper" : 241,
+  "Delicatessen" : 2080,
+  "Grocery" : 16483
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 8533,
+  "Milk" : 5506,
+  "Frozen" : 13486,
+  "Detergents/Paper" : 1377,
+  "Delicatessen" : 1498,
+  "Grocery" : 5160
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 21117,
+  "Milk" : 1162,
+  "Frozen" : 269,
+  "Detergents/Paper" : 1328,
+  "Delicatessen" : 395,
+  "Grocery" : 4754
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 1982,
+  "Milk" : 3218,
+  "Frozen" : 1541,
+  "Detergents/Paper" : 356,
+  "Delicatessen" : 1449,
+  "Grocery" : 1493
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 16731,
+  "Milk" : 3922,
+  "Frozen" : 688,
+  "Detergents/Paper" : 2371,
+  "Delicatessen" : 838,
+  "Grocery" : 7994
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 29703,
+  "Milk" : 12051,
+  "Frozen" : 13135,
+  "Detergents/Paper" : 182,
+  "Delicatessen" : 2204,
+  "Grocery" : 16027
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 39228,
+  "Milk" : 1431,
+  "Frozen" : 4510,
+  "Detergents/Paper" : 93,
+  "Delicatessen" : 2346,
+  "Grocery" : 764
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 10290,
+  "Milk" : 1981,
+  "Frozen" : 1038,
+  "Detergents/Paper" : 168,
+  "Delicatessen" : 2125,
+  "Grocery" : 2232
+ },
+ {
+  "Channel" : "Hotel/Retaurant/Cafe",
+  "Region" : "Other Region",
+  "Fresh" : 2787,
+  "Milk" : 1698,
+  "Frozen" : 65,
+  "Detergents/Paper" : 477,
+  "Delicatessen" : 52,
+  "Grocery" : 2510
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 2427,
+  "Milk" : 7097,
+  "Frozen" : 1127,
+  "Detergents/Paper" : 4314,
+  "Delicatessen" : 1468,
+  "Grocery" : 10391
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 3067,
+  "Milk" : 13240,
+  "Frozen" : 3941,
+  "Detergents/Paper" : 9959,
+  "Delicatessen" : 731,
+  "Grocery" : 23127
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 4484,
+  "Milk" : 14399,
+  "Frozen" : 3549,
+  "Detergents/Paper" : 14235,
+  "Delicatessen" : 1681,
+  "Grocery" : 24708
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 1107,
+  "Milk" : 11711,
+  "Frozen" : 955,
+  "Detergents/Paper" : 9265,
+  "Delicatessen" : 710,
+  "Grocery" : 23596
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 5550,
+  "Milk" : 12729,
+  "Frozen" : 864,
+  "Detergents/Paper" : 12420,
+  "Delicatessen" : 797,
+  "Grocery" : 16767
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 12119,
+  "Milk" : 28326,
+  "Frozen" : 4736,
+  "Detergents/Paper" : 19410,
+  "Delicatessen" : 2870,
+  "Grocery" : 39694
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 2362,
+  "Milk" : 6551,
+  "Frozen" : 913,
+  "Detergents/Paper" : 5957,
+  "Delicatessen" : 791,
+  "Grocery" : 11364
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 2532,
+  "Milk" : 16599,
+  "Frozen" : 179,
+  "Detergents/Paper" : 13308,
+  "Delicatessen" : 674,
+  "Grocery" : 36486
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 18,
+  "Milk" : 7504,
+  "Frozen" : 1285,
+  "Detergents/Paper" : 4797,
+  "Delicatessen" : 6372,
+  "Grocery" : 15205
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 3062,
+  "Milk" : 6154,
+  "Frozen" : 230,
+  "Detergents/Paper" : 8933,
+  "Delicatessen" : 2784,
+  "Grocery" : 13916
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 6134,
+  "Milk" : 23133,
+  "Frozen" : 6746,
+  "Detergents/Paper" : 18594,
+  "Delicatessen" : 5121,
+  "Grocery" : 33586
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 1073,
+  "Milk" : 9679,
+  "Frozen" : 61,
+  "Detergents/Paper" : 5980,
+  "Delicatessen" : 1265,
+  "Grocery" : 15445
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 572,
+  "Milk" : 9763,
+  "Frozen" : 2221,
+  "Detergents/Paper" : 4882,
+  "Delicatessen" : 2563,
+  "Grocery" : 22182
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 11908,
+  "Milk" : 8053,
+  "Frozen" : 1069,
+  "Detergents/Paper" : 6374,
+  "Delicatessen" : 698,
+  "Grocery" : 19847
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 2541,
+  "Milk" : 4737,
+  "Frozen" : 2946,
+  "Detergents/Paper" : 5316,
+  "Delicatessen" : 120,
+  "Grocery" : 6089
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 2790,
+  "Milk" : 2527,
+  "Frozen" : 5612,
+  "Detergents/Paper" : 788,
+  "Delicatessen" : 1360,
+  "Grocery" : 5265
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 20782,
+  "Milk" : 5921,
+  "Frozen" : 1759,
+  "Detergents/Paper" : 2568,
+  "Delicatessen" : 1553,
+  "Grocery" : 9212
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Lisbon",
+  "Fresh" : 11072,
+  "Milk" : 5989,
+  "Frozen" : 8321,
+  "Detergents/Paper" : 955,
+  "Delicatessen" : 2137,
+  "Grocery" : 5615
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 3996,
+  "Milk" : 11103,
+  "Frozen" : 902,
+  "Detergents/Paper" : 5952,
+  "Delicatessen" : 741,
+  "Grocery" : 12469
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 5283,
+  "Milk" : 13316,
+  "Frozen" : 1809,
+  "Detergents/Paper" : 8752,
+  "Delicatessen" : 172,
+  "Grocery" : 20399
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 2599,
+  "Milk" : 3688,
+  "Frozen" : 492,
+  "Detergents/Paper" : 10069,
+  "Delicatessen" : 59,
+  "Grocery" : 13829
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 161,
+  "Milk" : 7460,
+  "Frozen" : 617,
+  "Detergents/Paper" : 11783,
+  "Delicatessen" : 2410,
+  "Grocery" : 24773
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 243,
+  "Milk" : 12939,
+  "Frozen" : 799,
+  "Detergents/Paper" : 3909,
+  "Delicatessen" : 211,
+  "Grocery" : 8852
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 6468,
+  "Milk" : 12867,
+  "Frozen" : 1840,
+  "Detergents/Paper" : 7558,
+  "Delicatessen" : 1543,
+  "Grocery" : 21570
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 918,
+  "Milk" : 20655,
+  "Frozen" : 1465,
+  "Detergents/Paper" : 6846,
+  "Delicatessen" : 806,
+  "Grocery" : 13567
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 2137,
+  "Milk" : 3737,
+  "Frozen" : 1274,
+  "Detergents/Paper" : 17120,
+  "Delicatessen" : 142,
+  "Grocery" : 19172
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 1479,
+  "Milk" : 14982,
+  "Frozen" : 662,
+  "Detergents/Paper" : 3891,
+  "Delicatessen" : 3508,
+  "Grocery" : 11924
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 9759,
+  "Milk" : 25071,
+  "Frozen" : 1128,
+  "Detergents/Paper" : 12408,
+  "Delicatessen" : 1625,
+  "Grocery" : 17645
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 11223,
+  "Milk" : 14881,
+  "Frozen" : 1234,
+  "Detergents/Paper" : 9606,
+  "Delicatessen" : 1102,
+  "Grocery" : 26839
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 7588,
+  "Milk" : 1897,
+  "Frozen" : 417,
+  "Detergents/Paper" : 2208,
+  "Delicatessen" : 254,
+  "Grocery" : 5234
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 8090,
+  "Milk" : 3199,
+  "Frozen" : 1455,
+  "Detergents/Paper" : 3712,
+  "Delicatessen" : 531,
+  "Grocery" : 6986
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 6758,
+  "Milk" : 4560,
+  "Frozen" : 934,
+  "Detergents/Paper" : 4538,
+  "Delicatessen" : 1037,
+  "Grocery" : 9965
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 16448,
+  "Milk" : 6243,
+  "Frozen" : 824,
+  "Detergents/Paper" : 2662,
+  "Delicatessen" : 2005,
+  "Grocery" : 6360
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 2886,
+  "Milk" : 5302,
+  "Frozen" : 364,
+  "Detergents/Paper" : 6236,
+  "Delicatessen" : 555,
+  "Grocery" : 9785
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 16823,
+  "Milk" : 928,
+  "Frozen" : 11559,
+  "Detergents/Paper" : 332,
+  "Delicatessen" : 3486,
+  "Grocery" : 2743
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Oporto",
+  "Fresh" : 27082,
+  "Milk" : 6817,
+  "Frozen" : 1365,
+  "Detergents/Paper" : 4111,
+  "Delicatessen" : 2139,
+  "Grocery" : 10790
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 12669,
+  "Milk" : 9656,
+  "Frozen" : 214,
+  "Detergents/Paper" : 2674,
+  "Delicatessen" : 1338,
+  "Grocery" : 7561
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 7057,
+  "Milk" : 9810,
+  "Frozen" : 1762,
+  "Detergents/Paper" : 3293,
+  "Delicatessen" : 1776,
+  "Grocery" : 9568
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 6353,
+  "Milk" : 8808,
+  "Frozen" : 2405,
+  "Detergents/Paper" : 3516,
+  "Delicatessen" : 7844,
+  "Grocery" : 7684
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 22615,
+  "Milk" : 5410,
+  "Frozen" : 3915,
+  "Detergents/Paper" : 1777,
+  "Delicatessen" : 5185,
+  "Grocery" : 7198
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 9413,
+  "Milk" : 8259,
+  "Frozen" : 666,
+  "Detergents/Paper" : 1795,
+  "Delicatessen" : 1451,
+  "Grocery" : 5126
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 6006,
+  "Milk" : 11093,
+  "Frozen" : 1159,
+  "Detergents/Paper" : 7425,
+  "Delicatessen" : 2098,
+  "Grocery" : 18881
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 3366,
+  "Milk" : 5403,
+  "Frozen" : 4400,
+  "Detergents/Paper" : 5977,
+  "Delicatessen" : 1744,
+  "Grocery" : 12974
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1020,
+  "Milk" : 8816,
+  "Frozen" : 134,
+  "Detergents/Paper" : 4508,
+  "Delicatessen" : 1080,
+  "Grocery" : 12121
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 22647,
+  "Milk" : 9776,
+  "Frozen" : 2915,
+  "Detergents/Paper" : 4482,
+  "Delicatessen" : 5778,
+  "Grocery" : 13792
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4113,
+  "Milk" : 20484,
+  "Frozen" : 1158,
+  "Detergents/Paper" : 8604,
+  "Delicatessen" : 5206,
+  "Grocery" : 25957
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 15168,
+  "Milk" : 10556,
+  "Frozen" : 1920,
+  "Detergents/Paper" : 6506,
+  "Delicatessen" : 714,
+  "Grocery" : 12477
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4591,
+  "Milk" : 15729,
+  "Frozen" : 33,
+  "Detergents/Paper" : 6956,
+  "Delicatessen" : 433,
+  "Grocery" : 16709
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 10850,
+  "Milk" : 7555,
+  "Frozen" : 188,
+  "Detergents/Paper" : 6899,
+  "Delicatessen" : 46,
+  "Grocery" : 14961
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 630,
+  "Milk" : 11095,
+  "Frozen" : 787,
+  "Detergents/Paper" : 9529,
+  "Delicatessen" : 72,
+  "Grocery" : 23998
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 9670,
+  "Milk" : 7027,
+  "Frozen" : 541,
+  "Detergents/Paper" : 4618,
+  "Delicatessen" : 65,
+  "Grocery" : 10471
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 5181,
+  "Milk" : 22044,
+  "Frozen" : 1740,
+  "Detergents/Paper" : 7353,
+  "Delicatessen" : 4985,
+  "Grocery" : 21531
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 3103,
+  "Milk" : 14069,
+  "Frozen" : 1668,
+  "Detergents/Paper" : 6792,
+  "Delicatessen" : 1452,
+  "Grocery" : 21955
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4967,
+  "Milk" : 21412,
+  "Frozen" : 1798,
+  "Detergents/Paper" : 13583,
+  "Delicatessen" : 1163,
+  "Grocery" : 28921
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 491,
+  "Milk" : 10473,
+  "Frozen" : 744,
+  "Detergents/Paper" : 5611,
+  "Delicatessen" : 224,
+  "Grocery" : 11532
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4098,
+  "Milk" : 29892,
+  "Frozen" : 2616,
+  "Detergents/Paper" : 17740,
+  "Delicatessen" : 1340,
+  "Grocery" : 26866
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 5417,
+  "Milk" : 9933,
+  "Frozen" : 38,
+  "Detergents/Paper" : 7572,
+  "Delicatessen" : 1282,
+  "Grocery" : 10487
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 7823,
+  "Milk" : 6245,
+  "Frozen" : 4154,
+  "Detergents/Paper" : 4074,
+  "Delicatessen" : 964,
+  "Grocery" : 6544
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 9396,
+  "Milk" : 11601,
+  "Frozen" : 2896,
+  "Detergents/Paper" : 7677,
+  "Delicatessen" : 1295,
+  "Grocery" : 15775
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 85,
+  "Milk" : 20959,
+  "Frozen" : 36,
+  "Detergents/Paper" : 24231,
+  "Delicatessen" : 1423,
+  "Grocery" : 45828
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 12205,
+  "Milk" : 12697,
+  "Frozen" : 869,
+  "Detergents/Paper" : 12034,
+  "Delicatessen" : 1009,
+  "Grocery" : 28540
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 219,
+  "Milk" : 9540,
+  "Frozen" : 283,
+  "Detergents/Paper" : 7818,
+  "Delicatessen" : 156,
+  "Grocery" : 14403
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 10362,
+  "Milk" : 9232,
+  "Frozen" : 737,
+  "Detergents/Paper" : 3537,
+  "Delicatessen" : 2342,
+  "Grocery" : 11009
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 9198,
+  "Milk" : 27472,
+  "Frozen" : 3232,
+  "Detergents/Paper" : 18906,
+  "Delicatessen" : 5130,
+  "Grocery" : 32034
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 5626,
+  "Milk" : 12220,
+  "Frozen" : 206,
+  "Detergents/Paper" : 5038,
+  "Delicatessen" : 244,
+  "Grocery" : 11323
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 11594,
+  "Milk" : 7779,
+  "Frozen" : 3252,
+  "Detergents/Paper" : 8035,
+  "Delicatessen" : 3029,
+  "Grocery" : 12144
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1420,
+  "Milk" : 10810,
+  "Frozen" : 1593,
+  "Detergents/Paper" : 6766,
+  "Delicatessen" : 1838,
+  "Grocery" : 16267
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 2932,
+  "Milk" : 6459,
+  "Frozen" : 2561,
+  "Detergents/Paper" : 4573,
+  "Delicatessen" : 1386,
+  "Grocery" : 7677
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1454,
+  "Milk" : 6337,
+  "Frozen" : 133,
+  "Detergents/Paper" : 6830,
+  "Delicatessen" : 1831,
+  "Grocery" : 10704
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 8797,
+  "Milk" : 10646,
+  "Frozen" : 2471,
+  "Detergents/Paper" : 8969,
+  "Delicatessen" : 1438,
+  "Grocery" : 14886
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1531,
+  "Milk" : 8397,
+  "Frozen" : 247,
+  "Detergents/Paper" : 2505,
+  "Delicatessen" : 1236,
+  "Grocery" : 6981
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1406,
+  "Milk" : 16729,
+  "Frozen" : 673,
+  "Detergents/Paper" : 836,
+  "Delicatessen" : 3,
+  "Grocery" : 28986
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 12579,
+  "Milk" : 11114,
+  "Frozen" : 805,
+  "Detergents/Paper" : 6457,
+  "Delicatessen" : 1519,
+  "Grocery" : 17569
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 11170,
+  "Milk" : 10769,
+  "Frozen" : 2194,
+  "Detergents/Paper" : 1976,
+  "Delicatessen" : 143,
+  "Grocery" : 8814
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 22039,
+  "Milk" : 8384,
+  "Frozen" : 42,
+  "Detergents/Paper" : 12591,
+  "Delicatessen" : 4430,
+  "Grocery" : 34792
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1989,
+  "Milk" : 10690,
+  "Frozen" : 233,
+  "Detergents/Paper" : 11577,
+  "Delicatessen" : 2153,
+  "Grocery" : 19460
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 3830,
+  "Milk" : 5291,
+  "Frozen" : 317,
+  "Detergents/Paper" : 6694,
+  "Delicatessen" : 3182,
+  "Grocery" : 14855
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 2861,
+  "Milk" : 6570,
+  "Frozen" : 930,
+  "Detergents/Paper" : 4004,
+  "Delicatessen" : 1682,
+  "Grocery" : 9618
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 355,
+  "Milk" : 7704,
+  "Frozen" : 398,
+  "Detergents/Paper" : 8077,
+  "Delicatessen" : 303,
+  "Grocery" : 14682
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1725,
+  "Milk" : 3651,
+  "Frozen" : 824,
+  "Detergents/Paper" : 4424,
+  "Delicatessen" : 2157,
+  "Grocery" : 12822
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 5531,
+  "Milk" : 15726,
+  "Frozen" : 2367,
+  "Detergents/Paper" : 13726,
+  "Delicatessen" : 446,
+  "Grocery" : 26870
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 5224,
+  "Milk" : 7603,
+  "Frozen" : 2540,
+  "Detergents/Paper" : 3674,
+  "Delicatessen" : 238,
+  "Grocery" : 8584
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 15615,
+  "Milk" : 12653,
+  "Frozen" : 4425,
+  "Detergents/Paper" : 7108,
+  "Delicatessen" : 2379,
+  "Grocery" : 19858
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4822,
+  "Milk" : 6721,
+  "Frozen" : 993,
+  "Detergents/Paper" : 4973,
+  "Delicatessen" : 3637,
+  "Grocery" : 9170
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 260,
+  "Milk" : 8675,
+  "Frozen" : 1116,
+  "Detergents/Paper" : 7015,
+  "Delicatessen" : 323,
+  "Grocery" : 13430
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 200,
+  "Milk" : 25862,
+  "Frozen" : 651,
+  "Detergents/Paper" : 8773,
+  "Delicatessen" : 6250,
+  "Grocery" : 19816
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 514,
+  "Milk" : 7677,
+  "Frozen" : 937,
+  "Detergents/Paper" : 9836,
+  "Delicatessen" : 716,
+  "Grocery" : 19805
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 2343,
+  "Milk" : 7845,
+  "Frozen" : 52,
+  "Detergents/Paper" : 4196,
+  "Delicatessen" : 1697,
+  "Grocery" : 11874
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 8040,
+  "Milk" : 7639,
+  "Frozen" : 2758,
+  "Detergents/Paper" : 6839,
+  "Delicatessen" : 404,
+  "Grocery" : 11687
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 834,
+  "Milk" : 11577,
+  "Frozen" : 275,
+  "Detergents/Paper" : 4027,
+  "Delicatessen" : 1856,
+  "Grocery" : 11522
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 180,
+  "Milk" : 3485,
+  "Frozen" : 959,
+  "Detergents/Paper" : 5618,
+  "Delicatessen" : 666,
+  "Grocery" : 20292
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 381,
+  "Milk" : 4025,
+  "Frozen" : 388,
+  "Detergents/Paper" : 7271,
+  "Delicatessen" : 1371,
+  "Grocery" : 9670
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 2320,
+  "Milk" : 5763,
+  "Frozen" : 767,
+  "Detergents/Paper" : 5162,
+  "Delicatessen" : 2158,
+  "Grocery" : 11238
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1689,
+  "Milk" : 6964,
+  "Frozen" : 1456,
+  "Detergents/Paper" : 15469,
+  "Delicatessen" : 37,
+  "Grocery" : 26316
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 2771,
+  "Milk" : 6939,
+  "Frozen" : 2693,
+  "Detergents/Paper" : 6600,
+  "Delicatessen" : 1115,
+  "Grocery" : 15541
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 5981,
+  "Milk" : 14641,
+  "Frozen" : 2005,
+  "Detergents/Paper" : 12218,
+  "Delicatessen" : 445,
+  "Grocery" : 20521
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 1210,
+  "Milk" : 10044,
+  "Frozen" : 1741,
+  "Detergents/Paper" : 12638,
+  "Delicatessen" : 3137,
+  "Grocery" : 22294
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 117,
+  "Milk" : 6264,
+  "Frozen" : 228,
+  "Detergents/Paper" : 8682,
+  "Delicatessen" : 1111,
+  "Grocery" : 21203
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 37,
+  "Milk" : 1275,
+  "Frozen" : 137,
+  "Detergents/Paper" : 6747,
+  "Delicatessen" : 110,
+  "Grocery" : 22272
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4692,
+  "Milk" : 6128,
+  "Frozen" : 1619,
+  "Detergents/Paper" : 4515,
+  "Delicatessen" : 3105,
+  "Grocery" : 8025
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 3136,
+  "Milk" : 8630,
+  "Frozen" : 5641,
+  "Detergents/Paper" : 4666,
+  "Delicatessen" : 1426,
+  "Grocery" : 13586
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4515,
+  "Milk" : 11991,
+  "Frozen" : 2644,
+  "Detergents/Paper" : 3378,
+  "Delicatessen" : 2213,
+  "Grocery" : 9345
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 7362,
+  "Milk" : 12844,
+  "Frozen" : 2854,
+  "Detergents/Paper" : 7883,
+  "Delicatessen" : 553,
+  "Grocery" : 18683
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4389,
+  "Milk" : 10940,
+  "Frozen" : 848,
+  "Detergents/Paper" : 6728,
+  "Delicatessen" : 993,
+  "Grocery" : 10908
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 660,
+  "Milk" : 8494,
+  "Frozen" : 133,
+  "Detergents/Paper" : 6740,
+  "Delicatessen" : 776,
+  "Grocery" : 18622
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 14531,
+  "Milk" : 15488,
+  "Frozen" : 437,
+  "Detergents/Paper" : 14841,
+  "Delicatessen" : 1867,
+  "Grocery" : 30243
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 12126,
+  "Milk" : 3199,
+  "Frozen" : 480,
+  "Detergents/Paper" : 3140,
+  "Delicatessen" : 545,
+  "Grocery" : 6975
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 7579,
+  "Milk" : 4956,
+  "Frozen" : 1669,
+  "Detergents/Paper" : 3321,
+  "Delicatessen" : 2566,
+  "Grocery" : 9426
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 13146,
+  "Milk" : 1124,
+  "Frozen" : 1420,
+  "Detergents/Paper" : 549,
+  "Delicatessen" : 497,
+  "Grocery" : 4523
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 31714,
+  "Milk" : 12319,
+  "Frozen" : 287,
+  "Detergents/Paper" : 3881,
+  "Delicatessen" : 2931,
+  "Grocery" : 11757
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 21217,
+  "Milk" : 6208,
+  "Frozen" : 3095,
+  "Detergents/Paper" : 6707,
+  "Delicatessen" : 602,
+  "Grocery" : 14982
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 24653,
+  "Milk" : 9465,
+  "Frozen" : 294,
+  "Detergents/Paper" : 5058,
+  "Delicatessen" : 2168,
+  "Grocery" : 12091
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 18601,
+  "Milk" : 6327,
+  "Frozen" : 2205,
+  "Detergents/Paper" : 2767,
+  "Delicatessen" : 3181,
+  "Grocery" : 10099
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 17546,
+  "Milk" : 4519,
+  "Frozen" : 1066,
+  "Detergents/Paper" : 2259,
+  "Delicatessen" : 2124,
+  "Grocery" : 4602
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 16165,
+  "Milk" : 4230,
+  "Frozen" : 201,
+  "Detergents/Paper" : 4003,
+  "Delicatessen" : 57,
+  "Grocery" : 7595
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 688,
+  "Milk" : 5491,
+  "Frozen" : 833,
+  "Detergents/Paper" : 4239,
+  "Delicatessen" : 436,
+  "Grocery" : 11091
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 11519,
+  "Milk" : 6152,
+  "Frozen" : 584,
+  "Detergents/Paper" : 5121,
+  "Delicatessen" : 1476,
+  "Grocery" : 10868
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 40721,
+  "Milk" : 3916,
+  "Frozen" : 532,
+  "Detergents/Paper" : 2587,
+  "Delicatessen" : 1278,
+  "Grocery" : 5876
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 8590,
+  "Milk" : 3045,
+  "Frozen" : 96,
+  "Detergents/Paper" : 4095,
+  "Delicatessen" : 225,
+  "Grocery" : 7854
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 19913,
+  "Milk" : 6759,
+  "Frozen" : 1256,
+  "Detergents/Paper" : 5141,
+  "Delicatessen" : 834,
+  "Grocery" : 13462
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 19899,
+  "Milk" : 5332,
+  "Frozen" : 8132,
+  "Detergents/Paper" : 764,
+  "Delicatessen" : 648,
+  "Grocery" : 8713
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 8190,
+  "Milk" : 6343,
+  "Frozen" : 1285,
+  "Detergents/Paper" : 1901,
+  "Delicatessen" : 1780,
+  "Grocery" : 9794
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 11867,
+  "Milk" : 3327,
+  "Frozen" : 1178,
+  "Detergents/Paper" : 3837,
+  "Delicatessen" : 120,
+  "Grocery" : 4814
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 23,
+  "Milk" : 2616,
+  "Frozen" : 145,
+  "Detergents/Paper" : 3874,
+  "Delicatessen" : 217,
+  "Grocery" : 8118
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 21465,
+  "Milk" : 7243,
+  "Frozen" : 880,
+  "Detergents/Paper" : 2386,
+  "Delicatessen" : 2749,
+  "Grocery" : 10685
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 17360,
+  "Milk" : 6200,
+  "Frozen" : 1293,
+  "Detergents/Paper" : 3620,
+  "Delicatessen" : 1721,
+  "Grocery" : 9694
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 12238,
+  "Milk" : 7108,
+  "Frozen" : 1093,
+  "Detergents/Paper" : 2328,
+  "Delicatessen" : 2079,
+  "Grocery" : 6235
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 27380,
+  "Milk" : 7184,
+  "Frozen" : 2809,
+  "Detergents/Paper" : 4621,
+  "Delicatessen" : 1022,
+  "Grocery" : 12311
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 39679,
+  "Milk" : 3944,
+  "Frozen" : 1364,
+  "Detergents/Paper" : 523,
+  "Delicatessen" : 2235,
+  "Grocery" : 4955
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 15076,
+  "Milk" : 6257,
+  "Frozen" : 1504,
+  "Detergents/Paper" : 1916,
+  "Delicatessen" : 3113,
+  "Grocery" : 7398
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 4048,
+  "Milk" : 5164,
+  "Frozen" : 130,
+  "Detergents/Paper" : 813,
+  "Delicatessen" : 179,
+  "Grocery" : 10391
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 8257,
+  "Milk" : 3880,
+  "Frozen" : 1646,
+  "Detergents/Paper" : 2730,
+  "Delicatessen" : 344,
+  "Grocery" : 6407
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 7842,
+  "Milk" : 6046,
+  "Frozen" : 1691,
+  "Detergents/Paper" : 3540,
+  "Delicatessen" : 1874,
+  "Grocery" : 8552
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 17063,
+  "Milk" : 4847,
+  "Frozen" : 1031,
+  "Detergents/Paper" : 3415,
+  "Delicatessen" : 1784,
+  "Grocery" : 9053
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 17565,
+  "Milk" : 3686,
+  "Frozen" : 1059,
+  "Detergents/Paper" : 1803,
+  "Delicatessen" : 668,
+  "Grocery" : 4657
+ },
+ {
+  "Channel" : "Retail",
+  "Region" : "Other Region",
+  "Fresh" : 16980,
+  "Milk" : 2884,
+  "Frozen" : 874,
+  "Detergents/Paper" : 3213,
+  "Delicatessen" : 249,
+  "Grocery" : 12232
+ }
+]
